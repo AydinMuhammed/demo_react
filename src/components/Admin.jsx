@@ -1,5 +1,7 @@
 export default function Admin() {
   return (
+    <>
+    <div>Admin</div>
     <ul>
         <li></li>
         <li></li>
@@ -7,5 +9,6 @@ export default function Admin() {
         <li></li>
         <li></li>
     </ul>
+    </>
   )
 }
